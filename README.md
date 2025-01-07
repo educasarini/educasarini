@@ -43,7 +43,7 @@
     alt="Github Stats" 
     heigh="200"
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=ecasarini&show_icons=true&theme=dark&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=educasarini&show_icons=true&theme=dark&locale=pt-br" 
 />
 
 <img
@@ -51,7 +51,7 @@
     alt="Github Stats"
     heigh="200"
     style="padding-right: 10px;"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ecasarini&layout=compact&theme=dark&locale=pt-br"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=educasarini&layout=compact&theme=dark&locale=pt-br"
     />
 
 <br/>
